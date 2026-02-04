@@ -1,7 +1,9 @@
 ## Hello there! 
 
-My name is **Farzan Uddin** and I am an experienced web developer with five years of hands-on expertise in the field. My primary focus is on front-end development, working primarily with ReactJS. 
+Hey! I’m Farzan, a React-focused front-end developer with over 6 years of experience building fast, scalable web apps.
 
-My niche lies in legacy code migration, where I've successfully tackled the challenges of updating and modernizing existing codebases to meet current standards and best practices. I take pride in building proof-of-concepts that demonstrate the potential of new features and technologies, helping teams make informed decisions on adopting them. I'm passionate about is enhancing user experiences. I believe in creating intuitive, user-friendly interfaces that delight and engage users, resulting in a positive impact on businesses and end-users alike.
+My sweet spot is legacy migrations — I love taking messy, aging codebases and transforming them into clean, modern systems that teams actually enjoy working on. I also build proof-of-concepts to test new ideas and help teams move forward with the right tech decisions.
 
-With a strong foundation in web development and a knack for problem-solving, I'm excited to collaborate on projects that leverage my expertise -- Let's work together to bring innovative ideas to life! 😊🚀
+I care a lot about great user experiences — intuitive interfaces, smooth interactions, and products that feel good to use.
+
+If you’re into modern web tech, clean architecture, and building things the right way — we’ll get along great 😊🚀
